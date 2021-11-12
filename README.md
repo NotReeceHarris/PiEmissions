@@ -5,4 +5,4 @@ Languages : Python
 
 Libaries : TensorFlow
 
-![van](assets/van.jpeg)
+![van](assets/van.jpeg.jpg)
